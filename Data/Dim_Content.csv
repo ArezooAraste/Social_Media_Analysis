@@ -1,0 +1,54 @@
+﻿Content_ID,Content_Category,Content_Type,Post_Type
+1,Product Promotion,Organic,Video
+2,Entertainment,Organic,Text
+3,Entertainment,Organic,Carousel
+4,Educational,Organic,Video
+5,Customer Story,Organic,Image
+6,Customer Story,Organic,Video
+7,Product Promotion,Organic,Text
+8,Event / Webinar,Organic,Live Stream
+9,Educational,Organic,Text
+10,Educational,Sponsored,Video
+11,Product Promotion,Organic,Live Stream
+12,Educational,Organic,Image
+13,Entertainment,Organic,Video
+14,Educational,Organic,Live Stream
+15,Educational,Organic,Carousel
+16,Event / Webinar,Organic,Image
+17,Educational,Sponsored,Image
+18,Event / Webinar,Organic,Text
+19,Customer Story,Organic,Text
+20,Customer Story,Sponsored,Video
+21,Product Promotion,Sponsored,Video
+22,Customer Story,Sponsored,Image
+23,Customer Story,Organic,Carousel
+24,Entertainment,Organic,Image
+25,Entertainment,Sponsored,Video
+26,Product Promotion,Sponsored,Carousel
+27,Customer Story,Organic,Live Stream
+28,Product Promotion,Organic,Image
+29,Entertainment,Sponsored,Text
+30,Event / Webinar,Organic,Video
+31,Entertainment,Sponsored,Carousel
+32,Product Promotion,Sponsored,Text
+33,Educational,Sponsored,Carousel
+34,Product Promotion,Organic,Carousel
+35,Entertainment,Organic,Article
+36,Product Promotion,Organic,Article
+37,Product Promotion,Sponsored,Live Stream
+38,Educational,Organic,Article
+39,Product Promotion,Sponsored,Article
+40,Educational,Sponsored,Article
+41,Entertainment,Sponsored,Article
+42,Customer Story,Organic,Article
+43,Customer Story,Sponsored,Article
+44,Customer Story,Sponsored,Carousel
+45,Customer Story,Sponsored,Text
+46,Entertainment,Sponsored,Image
+47,Product Promotion,Sponsored,Image
+48,Educational,Sponsored,Text
+49,Event / Webinar,Organic,PDF
+50,Product Promotion,Organic,PDF
+51,Educational,Organic,PDF
+52,Entertainment,Organic,PDF
+53,Educational,Sponsored,PDF
